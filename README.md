@@ -10,11 +10,11 @@
 
 <p align="left"> <a href="https://twitter.com/itz_akkiiii134" target="blank"><img src="https://img.shields.io/twitter/follow/itz_akkiiii134?logo=twitter&style=for-the-badge" alt="itz_akkiiii134" /></a> </p>
 
-- 🔭 I’m **Final year Student**
+- 🔭 I’m **Corporate Majdoor**
 
 - 🌱 I’m currently learning **Web Development**
 
-- 💬 Ask me about **Reactjs , Nodejs ,java etc**
+- 💬 Ask me about **Reactjs , Nodejs ,java, python, Express etc**
 
 - 📫 How to reach me **ankitsingh3025@gmail.com**
 
